@@ -583,6 +583,7 @@ var AMsymbols = [
 {input:"tanh", tag:"mo", output:"tanh", tex:null, ttype:UNARY, func:true},
 {input:"cot",  tag:"mo", output:"cot", tex:null, ttype:UNARY, func:true},
 {input:"sec",  tag:"mo", output:"sec", tex:null, ttype:UNARY, func:true},
+{input:"cosec",  tag:"mo", output:"cosec", tex:null, ttype:UNARY, func:true},
 {input:"csc",  tag:"mo", output:"csc", tex:null, ttype:UNARY, func:true},
 {input:"arcsin",  tag:"mo", output:"arcsin", tex:null, ttype:UNARY, func:true},
 {input:"arccos",  tag:"mo", output:"arccos", tex:null, ttype:UNARY, func:true},
